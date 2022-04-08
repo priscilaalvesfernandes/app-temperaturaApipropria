@@ -1,0 +1,10 @@
+
+		temperatura {
+			humidade
+			clima
+			prevProxHora
+			climaProxHora
+			temperatura
+		//	prevProxHoraIcn
+		}
+		

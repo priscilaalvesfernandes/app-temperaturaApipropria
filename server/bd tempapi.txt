@@ -1,0 +1,12 @@
+create database tempapi;
+
+create table dados(
+	cod serial,
+	clima varchar(50),
+	temperatura int,
+	humidade int,
+	primary key (cod)
+);
+
+insert into public.dados(clima, temperatura, humidade) values('sol', 28, 60);
+select *from public.dados
