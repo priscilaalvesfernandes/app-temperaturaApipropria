@@ -1,6 +1,5 @@
 # Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este repositório contém um aplição de previsão de tempo com uso de uma API própria seguindo os passo do video: Build a Rest Api with NodeJS (JavaScript), Express, and PostgreSQL disponível no canal do you tube Beaufort Tek https://www.youtube.com/watch?v=DihOP19LQd .
 
 ## Recommended IDE Setup
 
